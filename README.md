@@ -1,5 +1,5 @@
 ## Hello there!
-My name is Johannes and I am a mechanical engineer now focusing on Data Science / Engineering.
+My name is Johannes and I am a mechanical engineer now focusing on Data Science / Engineering.   
 Say hi to me on <a href="https://linkedin.com/in/johannes-rothschink" target="blank">LinkedIn</a> if you want to connect!
 
 ---
